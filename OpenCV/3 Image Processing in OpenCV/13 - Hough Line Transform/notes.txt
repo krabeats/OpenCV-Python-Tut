@@ -1,0 +1,4 @@
+I understand this draws lines where it finds them.
+however, I don't fully understand how works with diagonal lines.
+
+https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html
