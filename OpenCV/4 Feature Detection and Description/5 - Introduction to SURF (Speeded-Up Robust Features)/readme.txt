@@ -1,0 +1,1 @@
+SURF is not included in OpenCV. you need to build it manually to access it.
